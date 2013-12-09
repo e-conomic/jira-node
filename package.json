@@ -1,0 +1,29 @@
+{
+  "name": "jira-node",
+  "version": "0.0.1",
+  "description": "Node.js integration with Jira",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/e-conomic/jira-node.git"
+  },
+  "keywords": [
+    "jira",
+    "JQL",
+    "JIRA",
+    ""
+  ],
+  "devDependencies": {
+    "mocha" : "",
+    "request" : ""
+  },
+  "author": "eduardpreda",
+  "license": "BSD",
+  "readmeFilename": "Readme.txt"
+}
