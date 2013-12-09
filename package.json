@@ -1,6 +1,6 @@
 {
   "name": "jira-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js integration with Jira",
   "main": "lib/main.js",
   "directories": {
@@ -19,9 +19,13 @@
     "JIRA",
     ""
   ],
-  "devDependencies": {
-    "mocha" : "",
+  
+  "devDependencies": {    
     "request" : ""
+  },
+
+  "devDependencies": {
+    "mocha" : ""   
   },
   "author": "eduardpreda",
   "license": "BSD",
