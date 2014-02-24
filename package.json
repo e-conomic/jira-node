@@ -20,7 +20,7 @@
     ""
   ],
   
-  "Dependencies": {    
+  "dependencies": {    
     "request" : "",
     "url" : "",
     "querystring" :""
