@@ -1,6 +1,6 @@
 {
   "name": "jira-node",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Node.js integration with Jira",
   "main": "lib/main.js",
   "directories": {
